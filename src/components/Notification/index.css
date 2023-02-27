@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.notification {
+  display: flex;
+  background-color: #e5e5e5;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 200px;
+  width: 100px;
+}

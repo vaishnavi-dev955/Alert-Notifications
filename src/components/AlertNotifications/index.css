@@ -1,0 +1,96 @@
+/* Write your CSS here */
+.circle-style {
+  color: #2dca73;
+  height: 60px;
+  width: 60px;
+  padding-right: 10px;
+  padding-top: 20px;
+}
+
+.success-heading {
+  color: #2dca73;
+  font-size: 25px;
+  padding-right: 150px;
+}
+
+.paragraph {
+  color: #64748b;
+  font-size: 18px;
+  padding-right: 150px;
+}
+
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+  background-color: #e5e5e5;
+  height: 150px;
+  width: 600px;
+  margin: 10px;
+  opacity: 90%;
+  border: 1px solid #475569;
+}
+
+.overall-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-icon {
+  height: 40px;
+  width: 40px;
+  padding-top: 20px;
+}
+
+.Error-Icon {
+  color: #ff0b37;
+  height: 60px;
+  width: 60px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.Error-heading {
+  color: #ff0b37;
+  font-size: 25px;
+  padding-right: 150px;
+}
+
+.warning-icon {
+  color: #ffb800;
+  height: 60px;
+  width: 60px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.warning-heading {
+  color: #ffb800;
+  font-size: 25px;
+  padding-right: 150px;
+}
+
+.Info-icon {
+  color: #0f81e0;
+  height: 60px;
+  width: 60px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.Info-heading {
+  color: #0f81e0;
+  font-size: 25px;
+  padding-right: 150px;
+}
